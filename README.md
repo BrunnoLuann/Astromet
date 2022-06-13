@@ -25,3 +25,10 @@ o projeto foi desenvolvido usando as seguintes tecnologias:
 [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 [Styled-Components](https://styled-components.com/docs)
 [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+
+## Imagens
+### Inicio dos matchs
+![Capturar](https://user-images.githubusercontent.com/86798260/173435280-152204ed-3aba-4084-9529-f13b1fd5373d.PNG)
+### Matchs
+![Capturar1](https://user-images.githubusercontent.com/86798260/173435292-291048f9-0fa1-4e32-a483-54053ccfd136.PNG)
+
